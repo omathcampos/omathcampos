@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! 👋 Eu sou o Matheus!<br>Um apaixonado por desenvolvimento Backend em Java e estudante de Análise e Desenvolvimento de Sistemas do Brasil.<br><br>🌟 PCD com visão monocular<br>🖥️ Software Developer Jr at @MercadoLivre<br><br>👨‍💻 Atualmente trabalhando com:<br><br>Java e Spring Boot para construção de APIs robustas.<br>Integração com serviços externos e gestão de bancos de dados.</p>
+<p align="left">Olá! 👋 Eu sou o Matheus!<br>Um apaixonado por desenvolvimento Backend em Java e Golang e estudante de Análise e Desenvolvimento de Sistemas do Brasil.<br><br>🌟 PCD com visão monocular<br>🖥️ Software Developer Jr at @MercadoLivre<br><br>👨‍💻 Atualmente trabalhando com:<br><br>Java e Spring Boot para construção de APIs robustas.<br>Integração com serviços externos e gestão de bancos de dados.</p>
 
 ###
 
